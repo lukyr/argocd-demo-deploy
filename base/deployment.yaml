@@ -1,4 +1,4 @@
-apiVersion: apps/v1beta2
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: demo
@@ -19,3 +19,4 @@ spec:
         name: demo
         ports:
         - containerPort: 8080
+        
