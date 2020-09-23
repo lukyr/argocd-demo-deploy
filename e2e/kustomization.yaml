@@ -7,6 +7,6 @@ patchesStrategicMerge:
 
 images:
 - name: 192.168.0.105:5000/argocd-demo
-  newTag: 73df59b3402c8484a7091bd142c86a731a28c324
+  newTag: 7cb686fcc9f230571ddc4f1c238949e42b605a77
 resources:
 - ../base
